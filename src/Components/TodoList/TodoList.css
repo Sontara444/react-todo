@@ -1,0 +1,29 @@
+.todolist{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #111;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: 26%;
+    padding: 30px;
+}
+.todolist-container{
+    width: 80%;
+    padding: 18px 20px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: #fff;
+    color: #111;
+    margin: 6px 0 ;
+}
+.list-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+}
